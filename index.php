@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
   <?php
     session_start();
     if(isset($_SESSION['name'])) {
@@ -9,7 +7,3 @@
     } else {
     include 'index.html';
     }
-  ?>
-
-
-
