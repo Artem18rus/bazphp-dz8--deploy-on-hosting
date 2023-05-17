@@ -5,16 +5,3 @@ input:hover {
 button {
 	cursor: pointer;
 }
-
-.greeting {
-	font-size: 50px;
-	color: blue;
-	text-align: center;
-}
-
-a {
-	font-size: 30px;
-	text-decoration: none;
-	padding-left: 50px;
-	color: red;
-}
