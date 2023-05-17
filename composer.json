@@ -1,0 +1,14 @@
+{
+    "name": "admin/hosting",
+    "description": "DZ8-hosting",
+    "require": {
+        "psr/log": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Artem na rab",
+            "email": "urart88@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
